@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+body{
+    background-image:url(https://usagif.com/wp-content/uploads/gif-heart-47.gif);
+}
+input{
+    color:pink;
+    font-family:Arial, Helvetica, sans-serif;
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+}
+
+section{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color:rgb(235, 13, 50);
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    color: bisque;
+    left: 15%;
+    transform: translate(-50%);
+}
